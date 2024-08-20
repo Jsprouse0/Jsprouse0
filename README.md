@@ -4,8 +4,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A813F7&width=435&lines=AI+Engineer;NetPyNE+Developer;Dual+Bachelor+Computer+Science%2FNeuroscience;Google+Summer+of+Code+2024+Contributor)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A813F7&width=435&lines=AI+Engineer;NetPyNE+Developer;Dual+Bachelor+Computer+Science%2FNeuroscience;Google+Summer+of+Code+2024+Contributor)](https://git.io/typing-svg)" />
 </p>
+
 
 I'm an undergraduate at Auburn University, working towards a dual bachelor's degree in Neuroscience and Computer Science with a focus on AI engineering. My academic journey blends the complexities of the brain with cutting-edge computational techniques, aiming to contribute to the evolving field of artificial intelligence.
 
