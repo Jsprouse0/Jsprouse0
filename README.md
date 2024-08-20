@@ -7,7 +7,8 @@ I recently completed an internship with the International Neuroinformatics Coord
 
 <p align="center">
   <a href="https://github.com/Jsprouse0">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jacob Sprouse" /></a>
+    <img src="![image](https://github.com/user-attachments/assets/ecae5766-7af3-4c71-9b3c-a6d5adae92c7)
+" alt="Jacob Sprouse" /></a>
 </p>
 
 <p align="left">
@@ -29,12 +30,13 @@ I recently completed an internship with the International Neuroinformatics Coord
     <img aling="left" alt="Linux" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img aling="left" alt="Html" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img aling="left" alt="CSS" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img aling="left" alt="bash" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bach/bash-original.svg"/>
+    <img aling="left" alt="bash" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
     <img aling="left" alt="react" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img aling="left" alt="github" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <br />
 
-    # 
+#
+
 ### 📊 Stats
 ![Jsprouse0's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=Jsprouse0&show_icons=true&theme=midnight-purple)
 
