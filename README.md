@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A813F7&width=440&height=45&center=true&lines=AI+Engineer;NetPyNE+Developer;Dual+Bachelor+Computer+Science%2FNeuroscience;Google+Summer+of+Code+2024+Contributor)](https://git.io/typing-svg)" />
 
+<img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;NetPyNE%20Developer; Dual%20Bachelors%20Computer%20Science%2FNeuroscience;Google%20Summer%20of%20Code%20Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+
 I'm an undergraduate at Auburn University, working towards a dual bachelor's degree in Neuroscience and Computer Science with a focus on AI engineering. My academic journey blends the complexities of the brain with cutting-edge computational techniques, aiming to contribute to the evolving field of artificial intelligence.
 
 I recently completed an internship with the International Neuroinformatics Coordinating Facility (INCF) through the Google Summer of Code 2024, where I worked on enhancing the NetPyNE tool for neural network simulations and am currently working on publishing a research paper with my mentor. I'm passionate about the intersection of neuroscience and AI, constantly exploring how technology can mimic and enhance cognitive functions.
