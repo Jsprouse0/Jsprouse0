@@ -4,7 +4,7 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;NetPyNE%20Developer; Dual%20Bachelors%20of%20Computer%20Science%20and%20Neuroscience;Google%20Summer%20of%20Code%20Contributor&font=Fira%20Code&center=true&width=440&height=45&color=A813F7&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;NetPyNE%20Developer; Bachelors%20of%20Computer%20Science%20and%20Neuroscience;Google%20Summer%20of%20Code%20Contributor&font=Fira%20Code&center=true&width=440&height=45&color=A813F7&vCenter=true&pause=1000&size=22" />
 </p>
 
 I'm an undergraduate at Auburn University, working towards a dual bachelor's degree in Neuroscience and Computer Science with a focus on AI engineering. My academic journey blends the complexities of the brain with cutting-edge computational techniques, aiming to contribute to the evolving field of artificial intelligence.
