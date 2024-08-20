@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.fontspace.com/category/serif"><img src="https://see.fontimg.com/api/rf5/OVoWO/NDQ0MmVhNTQyZjljNDk2OWFmZDIyZjM3ZmRjYjQ5ZjEudHRm/SmFjb2IgU3Byb3VzZQ/aloevera.png?r=fs&h=65&w=1000&fg=9F31E8&bg=FFFFFF&tb=1&s=65" width="300px" alt="Serif fonts"></a>
+<a href="https://www.fontspace.com/category/serif"><img src="https://see.fontimg.com/api/rf5/OVoWO/NDQ0MmVhNTQyZjljNDk2OWFmZDIyZjM3ZmRjYjQ5ZjEudHRm/SmFjb2IgU3Byb3VzZQ/aloevera.png?r=fs&h=65&w=1000&fg=9F31E8&bg=FFFFFF&tb=1&s=65" width="300px" alt="Serif fonts"></a>
   <a href="https://www.linkedin.com/in/jacob-sprouse-590a71255/"><img style="padding-left:15px;" width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
