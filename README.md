@@ -1,10 +1,11 @@
 <p align="center">
-  # 🌓 <a href="https://www.fontspace.com/category/modern"><img src="https://see.fontimg.com/api/rf5/OVoWO/NDQ0MmVhNTQyZjljNDk2OWFmZDIyZjM3ZmRjYjQ5ZjEudHRm/SmFjb2IgU3Byb3VzZQ/aloevera.png?r=fs&h=65&w=1000&fg=9F31E8&bg=FFFFFF&tb=1&s=65" alt="Modern fonts"></a>
+  🌓 <a href="https://www.fontspace.com/category/serif"><img src="https://see.fontimg.com/api/rf5/OVoWO/NDQ0MmVhNTQyZjljNDk2OWFmZDIyZjM3ZmRjYjQ5ZjEudHRm/SmFjb2IgU3Byb3VzZQ/aloevera.png?r=fs&h=65&w=1000&fg=9F31E8&bg=FFFFFF&tb=1&s=65" width="40px" alt="Serif fonts"></a>
   <a href="https://www.linkedin.com/in/jacob-sprouse-590a71255/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A813F7&width=435&lines=AI+Engineer;NetPyNE+Developer;Dual+Bachelor+Computer+Science%2FNeuroscience;Google+Summer+of+Code+2024+Contributor)](https://git.io/typing-svg)
+</p>
 
 I'm an undergraduate at Auburn University, working towards a dual bachelor's degree in Neuroscience and Computer Science with a focus on AI engineering. My academic journey blends the complexities of the brain with cutting-edge computational techniques, aiming to contribute to the evolving field of artificial intelligence.
 
