@@ -1,4 +1,4 @@
-# 🌓 <img src="![image](https://github.com/user-attachments/assets/ecae5766-7af3-4c71-9b3c-a6d5adae92c7)"/>
+# 🌓 <img src="![image](https://github.com/user-attachments/assets/ecae5766-7af3-4c71-9b3c-a6d5adae92c7)" alt="Jacob Sprouse"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A813F7&width=435&lines=AI+Engineer;NetPyNE+Developer;Dual+Bachelor+Computer+Science%2FNeuroscience;Google+Summer+of+Code+2024+Contributor)](https://git.io/typing-svg)
 
@@ -12,6 +12,7 @@ I recently completed an internship with the International Neuroinformatics Coord
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 ---
+
 ### 🧰 Languages and Tools
     <img align="left" alt="Java" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="Java" width = "30px" style=padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
