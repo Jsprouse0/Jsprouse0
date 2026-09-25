@@ -150,10 +150,9 @@ I'm currently deepening my systems background through:
 
 ---
 
-## GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jsprouse0&show_icons=true&theme=github_dark"
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Jsprouse0&show_icons=true"
     alt="Jacob Sprouse GitHub Stats"
   />
 </p>
